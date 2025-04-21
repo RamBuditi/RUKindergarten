@@ -3,7 +3,7 @@
 
 ## Description
 
-This Java program simulates various activities in a kindergarten classroom, including managing student lineups, seating arrangements, and playing musical chairs. It demonstrates the use of fundamental data structures like Singly Linked Lists, Circular Linked Lists, and 2D arrays to manage student data and state transitions.
+This Java program simulates various activities in a kindergarten classroom, including managing student lineups, seating arrangements, and playing musical chairs. It demonstrates the use of fundamental data structures like Singly Linked Lists, Circular Linked Lists, and 2D arrays to manage student data and state transitions. All the files in the program except fo Classroom.java were prewritten and imported from https://ds.cs.rutgers.edu/assignment-ru-kindergarten/
 
 ## Features
 
